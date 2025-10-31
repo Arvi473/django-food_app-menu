@@ -181,7 +181,3 @@ You can add:
 * Add API endpoints using Django REST Framework.
 
 ---
-
-
-Would you like me to **add badges** (e.g., Python version, Django version, License, etc.) and **a short project summary section for portfolio display** at the top?
-That will make it look more professional and GitHub-ready.
