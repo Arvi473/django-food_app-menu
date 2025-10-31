@@ -162,14 +162,16 @@ Item.objects.create(item_name="Biryani", item_desc="Chicken Biryani", item_price
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
-You can add:
+<img width="1373" height="824" alt="Food_App" src="https://github.com/user-attachments/assets/218cb237-03d4-4abf-a9ba-e4f00e9075b4" />
 
-* Homepage (list of items)
-* Item detail page
-* Add item form
-* Admin panel
+<img width="1912" height="798" alt="Food_menu" src="https://github.com/user-attachments/assets/d72c5308-b5c5-4e6f-b371-fb58d34bfb56" />
+
+<img width="948" height="628" alt="Pizza" src="https://github.com/user-attachments/assets/b8f3e3a1-f90d-45f7-b1f2-16c57545a019" />
+
+<img width="1048" height="638" alt="Add_food" src="https://github.com/user-attachments/assets/d292c123-8a86-4235-bd47-2f0f5a9d0d98" />
+
 
 ---
 
